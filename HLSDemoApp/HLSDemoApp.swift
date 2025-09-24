@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct HLSDemoAppApp: App {
+struct HLSDemoApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
