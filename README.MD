@@ -25,7 +25,7 @@ Specifically, this repository includes
     - viewing side(s): simulators will work
 
 
-For more details, please refer to my article: [SwiftUI: An HTTP Live Streaming App!]()
+For more details, please refer to my article: [SwiftUI: An HTTP Live Streaming App!](https://medium.com/@itsuki.enjoy/swiftui-an-http-live-streaming-app-20dfe555c716)
 
 
 ![](./demo.gif)
